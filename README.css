@@ -22,4 +22,27 @@ color: blue;
 }
 
 
+.Menu{
+background.color:#236F9B;
+height:40px;
+}
+.Menu ul{
+margin:0;
+}
+.Menu li{
+display:inline-block;
+margin-top:10px;
+padding-right:30px;
+}
+
+
+
+
+
+
+
+
+
+
+
 
