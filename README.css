@@ -1,1 +1,12 @@
 
+div.dad {
+  text-align: center;
+}
+div.man-mikham-biam-vasat {
+margin-left: auto;
+  margin-right: auto;
+}
+.dad-flex-center {
+  display: flex;
+  justify-content: center;
+}
