@@ -9,38 +9,9 @@
 <div class="navbar">
   <ul class="menu">
     <li>
-      <a href="#link1">لینک اول</a>
+      <a href="#">Download MIUZ version</a>
     </li>
     <li>
-      <a href="#link2">لینک دوم</a>
-    </li>
-    <li>
-      <a href="#link3">لینک سوم</a>
-      <ul class="submenu">
-        <li>
-          <a href="link3-1"> عنوان فرعی اول </a>
-        </li>
-        <li>
-          <a href="link3-2"> عنوان فرعی دوم </a>
-        </li>
-      </ul>
-    </li>
-    <li>
-      <a href="#link4">لینک چهارم</a>
-    </li>
-  </ul> 
-</div>
-
-</Menu>
-
-
-<body>
-.<br>
-.<br>.
-<br>.
-<br>.
-
-
-
+    
 
 </body>
